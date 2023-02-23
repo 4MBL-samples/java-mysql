@@ -1,3 +1,3 @@
 SELECT firstname, lastname
-FROM Wworkerorker
+FROM Worker
 WHERE id=1
